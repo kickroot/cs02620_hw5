@@ -9,6 +9,7 @@ jason@carbon:~/rowan/cs02620/hw5$ tree
 │   ├── team10.db
 │   ├── team11.txt
 │   └── team12.csv
+│   └── team13.csv
 └── hw5_team10.ipynb
 
 1 directory, 4 files
